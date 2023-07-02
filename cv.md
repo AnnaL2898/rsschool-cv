@@ -12,3 +12,8 @@
 
 ### Skills and Proficiency:
 ### Languages:
+
+- English \- A2/intermediate <br>
+- Spanish \- A2/intermediate
+- Russian \- native
+- Belorussian \- native
