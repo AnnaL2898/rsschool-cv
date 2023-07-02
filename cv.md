@@ -8,7 +8,9 @@
 **Telegram:** @annie_harville<br>
 
 ### About Me:
-
+ Highly motivated Junior Front-End Developer with a solid background in Medical University education (pediatrics), finished Belarussian State Medical University in 2022. 
+<br>
+Learning HTML, CSS, and JavaScript, with a passion for creating engaging and user-friendly web applications.
 
 ### Skills and Proficiency:
 
