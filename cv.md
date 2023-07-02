@@ -11,6 +11,12 @@
 
 
 ### Skills and Proficiency:
+
+- Markdown
+- Git, GitHub
+- VS Code 
+- Canva, CapCut
+
 ### Languages:
 
 - English \- A2/intermediate <br>
